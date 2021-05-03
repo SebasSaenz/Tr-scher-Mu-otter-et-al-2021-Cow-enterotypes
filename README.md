@@ -3,4 +3,5 @@ This repository contains the raw data and R scripts use in **Microbiome clusters
 The project was carried on in the institute [Functional Microbiology of Livestock](https://livestock-functional-microbiology.uni-hohenheim.de/en) of the Hohenheim University.
 
 Lead author: Johanna Tröscher-Mußotter johannatroescher@web.de 
+
 Corresponding author : Jana Seifert jseifert@uni-hohenheim.de
