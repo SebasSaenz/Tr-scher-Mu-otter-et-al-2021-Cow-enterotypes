@@ -1,0 +1,1 @@
+This repository contains the raw data and R scripts use in **“Microbiome clusters disclose physiologic variances in calving and lipopolysaccharide challenged dairy cows”** by Tröscher-Mußotter, J et al 2021
